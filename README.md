@@ -16,4 +16,3 @@ optional
 
 
 if you want to change styles in exisiting project you can use ng set defaults.styleExt scss
-test
